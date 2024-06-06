@@ -1,17 +1,14 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Anne Baranger
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Anne
+last_name: Baranger
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🌿
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,36 +17,40 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD student in Forest Ecology
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: INRAE, Lessem
+    url: https://www.lessem.fr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+social:
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=sLY-UZcAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/annebaranger
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-6929-6362
+- icon: cv
+  icon_pack: ai
+  link: files/Research CV - BARANGER.pdf
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:annebarang@gmail.com'  # For a direct email link, use "mailto:sylvain.m.schmitt@gmail.com".
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Anne-Baranger-2
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Temperate and tropical forests
+  - Ecological modelling
+  - Climate change impact
+  -
 
 education:
   - area: PhD Artificial Intelligence
