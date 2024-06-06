@@ -56,7 +56,6 @@ education:
   - area: PhD in Forest Ecology
     institution: Université Grenoble-Alpes
     date_start: 2021-11-01
-    date_end: ongoing
     summary: |
       Characterisation of European forest to climate change through physiological and demographic approach
     #button:
